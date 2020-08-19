@@ -8,4 +8,4 @@ class Application
 
 end
 
-run application.new
+run Application.new
